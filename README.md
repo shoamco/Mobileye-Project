@@ -1,17 +1,16 @@
 # ExcellenTeam Mobileye Project 2019-11-05
 
 ## Team Members
-* Your Name Here
-* Your Name Here
+* 
+* Shoam Cohen
 
 ## Libraries/Technologies Used
 * python 3.7
 * numpy
 * matplotlib
 * jupyterlab
-* list here libraries/code used
-* list here libraries/code used
-* list here libraries/code used
+* cv2
+
 
 ## Credits
 * list here website/blog post/article/book/friend
