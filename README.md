@@ -1,7 +1,7 @@
 # ExcellenTeam Mobileye Project 2019-11-05
 
 ## Team Members
-* 
+* Elia Edery
 * Shoam Cohen
 
 ## Libraries/Technologies Used
