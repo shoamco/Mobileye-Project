@@ -1,0 +1,9 @@
+*.pyc
+.idea/
+*~
+.ipynb_checkpoints
+venv/
+*.bak
+
+# for sanity of participants and guides (this file usually should be in version control):
+Pipfile.lock
