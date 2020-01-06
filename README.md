@@ -11,14 +11,3 @@
 * jupyterlab
 * cv2
 
-
-## Credits
-* list here website/blog post/article/book/friend
-* list here website/blog post/article/book/friend
-* list here website/blog post/article/book/friend
-
-## Special Thanks
-* list here
-* list here
-* list here
-* list here
