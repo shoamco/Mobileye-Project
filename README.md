@@ -9,7 +9,7 @@ Detected light source in an image using high pass filter and local maxima.
 creating data for the tarining.
 Built and trained CNN in order to determine a traffic light.
 ## Phase 3:
-Measured the geometric distance of each traffic light with straction of motion and epipolar geometry. 
+Measured the geometric distance of each traffic light with SFM and Epipolar Geometry. 
 ## Libraries/Technologies Used
 * python 3.7
 * numpy
